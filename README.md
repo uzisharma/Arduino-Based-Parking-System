@@ -65,7 +65,7 @@ Contributions are welcome! Please follow the guidelines in [CONTRIBUTING.md](CON
 If you encounter issues during setup or usage, refer to [TROUBLESHOOTING.md](TROUBLESHOOTING.md) for solutions.
 
 ## License
-This project is licensed under the [Coming_Soon](LICENSE).
+This project is licensed under the [LICENCE](https://github.com/uzisharma/Arduino-Based-Parking-System/blob/main/LICENCE.txt)
 
 ## Credits
 - IR sensor library by [Comming_Soon](link-to-library)

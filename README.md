@@ -8,7 +8,7 @@ This project showcases an automated car parking system using Arduino Uno, featur
 - 2 IR sensors
 - Servo motor
 - Display (LCD with I2C Driver)
-- Green and red (Indicator Ligit)
+- Green and red (Indicator Light)
 - Buzzer
 
 ###  Connect the Hardware Components
@@ -18,7 +18,7 @@ Refer to the circuit diagram provided below and connect the components according
 
 ###  Upload the Arduino Code
 1. Open the Arduino IDE (Integrated Development Environment) on your computer.
-         a. Download the "LiquidCrystal_I2C-1.1.2.zip" file from ![Here](coming-soon).
+         a. Download the "LiquidCrystal_I2C-1.1.2.zip" file from [Here](coming-soon).
          b. In Arduino IDE, goto, 'SKETCH'--> 'INCLUDE LIBRARY'--> 'ADD ZIP LIBRARY'--> Select the above downloaded ZIP file and Click--> OPEN.
 
 2. Copy the provided Arduino code and paste it into a new Arduino sketch.

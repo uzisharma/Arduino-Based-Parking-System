@@ -18,14 +18,14 @@ Refer to the circuit diagram provided below and connect the components according
 
 ###  Upload the Arduino Code
 1. Open the Arduino IDE (Integrated Development Environment) on your computer.
-         a. Download the "LiquidCrystal_I2C-1.1.2.zip" file from [Here](coming-soon).
-         b. In Arduino IDE, goto, 'SKETCH'--> 'INCLUDE LIBRARY'--> 'ADD ZIP LIBRARY'--> Select the above downloaded ZIP file and Click--> OPEN.
+         1. Download the "LiquidCrystal_I2C-1.1.2.zip" file from [Here](https://www.arduinolibraries.info/libraries/liquid-crystal-i2-c).
+         2. In Arduino IDE, goto, 'SKETCH'--> 'INCLUDE LIBRARY'--> 'ADD ZIP LIBRARY'--> Select the above downloaded ZIP file and Click--> OPEN.
 
-2. Copy the provided Arduino code and paste it into a new Arduino sketch.
-3. Save the sketch with a descriptive name (e.g., "Car_Parking_System.ino").
-4. Connect your Arduino Uno to your computer via USB.
-5. Select the appropriate board (Arduino Uno) and port from the "Tools" menu in the Arduino IDE.
-6. Click the "Upload" button to upload the code to the Arduino Uno.
+3. Copy the provided Arduino code and paste it into a new Arduino sketch.
+4. Save the sketch with a descriptive name (e.g., "Car_Parking_System.ino").
+5. Connect your Arduino Uno to your computer via USB.
+6. Select the appropriate board (Arduino Uno) and port from the "Tools" menu in the Arduino IDE.
+7. Click the "Upload" button to upload the code to the Arduino Uno.
 
 ###  Power Up the System
 1. Make sure all connections are secure and correct.
